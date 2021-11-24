@@ -1,12 +1,10 @@
-<h2 align="left"><u>Hi 👋, I'm Saad Shaikh | Final year Undergrad looking for opportunity to start my career </u></h2>
+<h2 align="left"><u>Hi 👋, I'm Saad Shaikh | Backend Dveloper Python/Django | Rest APIs </u></h2>
 
-- 🔭 I’m currently working on **Final Year Project (Single Source)**
+- 🔭 I’m currently working on **Microservices, Api Gateways, PostgreSQL**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **AWS services Lambda, Elasticsearch, kafka, Kubernetes**
 
-- 👯 I’m looking to collaborate on **Django-Framework**
-
-- 🤝 I’m looking for help with **Cloud Techs**
+- 👯 I’m looking to collaborate on **Django, Rest Api, GraphQL, MySQL**
 
 - 💬 Ask me about **Anything [Love to collaborate]**
 
